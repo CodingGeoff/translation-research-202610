@@ -206,15 +206,15 @@ head(s, "POSITIVE CASE · TAKEAWAYS", "三点值得照搬", 4, GOOD,
 takes = [("构念先于题项", "先有操作定义与对齐表，再写题项。", "Construct first, items second."),
          ("删题是设计，不是失败", "74 → 28 → 21，每轮都留下依据。", "Item analysis, reported."),
          ("结论只走一步", "只说“可测、能区分阶段”，不说“笔记好所以口译好”。", "Claim no more than data.")]
-y = 2.72
+y = 2.66
 for i, (a, b, c) in enumerate(takes):
-    card(s, ML, y, 11.9, 1.22, GOOD_LT, bar=GOOD)
-    txt(s, ML + 0.36, y + 0.22, 11.2, 0.95, [
-        ("%d. %s" % (i + 1, a), 15, INK, True, EA, 1.34, 0.3),
-        (b, 11.8, SUB, False, EA, 1.5, None),
-        (c, 10, FAINT, False, D.LAT, 1.4, None)])
-    y += 1.38
-txt(s, ML, y + 0.06, 11.9, 0.26,
+    card(s, ML, y, 11.9, 1.08, GOOD_LT, bar=GOOD)
+    txt(s, ML + 0.36, y + 0.14, 11.2, 0.86, [
+        ("%d. %s" % (i + 1, a), 15, INK, True, EA, 1.3, 0.2),
+        (b, 11.5, SUB, False, EA, 1.4, None),
+        (c, 9.5, FAINT, False, D.LAT, 1.35, None)])
+    y += 1.22
+txt(s, ML, y + 0.08, 11.9, 0.26,
     [("另：21 题随附录公开 —— 工具可复用，研究才能被复核、被引用。", 10.5, FAINT, False, EA, 1.4, None)])
 notes(s, SCRIPT[4][1])
 
@@ -270,15 +270,15 @@ bad = [("题项要来自已验证的量表", "自拟 3 条不等于“感知有�
         "改：先合成维度均分并报 α，再做相关；只写“关联”。"),
        ("结论要收缩到样本", "127 人 → “教学可行”？",
         "改：称“该校学生”；报发放 / 回收 / 有效三份数字。")]
-y = 2.72
+y = 2.66
 for a, b, c in bad:
-    card(s, ML, y, 11.9, 1.22, WARN_LT, bar=WARN)
-    txt(s, ML + 0.36, y + 0.22, 11.2, 0.95, [
-        (a, 15, INK, True, EA, 1.34, 0.3),
-        (b, 11.8, SUB, False, EA, 1.5, None),
-        (c, 11.8, INK, False, EA, 1.5, None)])
-    y += 1.38
-txt(s, ML, y + 0.06, 11.9, 0.26,
+    card(s, ML, y, 11.9, 1.08, WARN_LT, bar=WARN)
+    txt(s, ML + 0.36, y + 0.14, 11.2, 0.86, [
+        (a, 15, INK, True, EA, 1.3, 0.2),
+        (b, 11.5, SUB, False, EA, 1.4, None),
+        (c, 11.5, INK, False, EA, 1.4, None)])
+    y += 1.22
+txt(s, ML, y + 0.08, 11.9, 0.26,
     [("底线：剔卷标准与编码规则要预先写清（此处 18 份被剔除，依据未披露）。", 10.5, FAINT, False, EA, 1.4, None)])
 notes(s, SCRIPT[7][1])
 
@@ -366,13 +366,13 @@ refs = [("正例全文＋量表附录", "bcdlab.gdufs.edu.cn/info/1025/2025.htm"
         ("口译问卷范例", "张威（2013）《中国翻译》(2): 17-25"),
         ("方法读物", "吴明隆《问卷统计分析实务》"),
         ("检索式", "CNKI: 翻译 AND（问卷 OR 量表）AND 信效度")]
-y = 3.02
+y = 2.94
 for a, b in refs:
-    txt(s, 8.5, y, 4.2, 0.28, [(a, 10.2, INK, False, EA, 1.32, None)])
-    txt(s, 8.5, y + 0.25, 4.2, 0.30, [(b, 8.6, FAINT, False, D.MONO, 1.25, None)])
-    y += 0.66
-txt(s, 8.5, y + 0.06, 4.2, 0.4,
-    [("两条链接都可直接点开核对数字；检索式可复制到知网 / Web of Science。", 9.5, FAINT, False, EA, 1.4, None)])
+    txt(s, 8.5, y, 4.2, 0.22, [(a, 9.8, INK, False, EA, 1.3, None)])
+    txt(s, 8.5, y + 0.21, 4.2, 0.26, [(b, 8.2, FAINT, False, D.MONO, 1.2, None)])
+    y += 0.50
+txt(s, 8.5, y + 0.02, 4.2, 0.4,
+    [("两条链接都可直接点开核对数字；检索式可复制到知网 / Web of Science。", 9, FAINT, False, EA, 1.4, None)])
 notes(s, SCRIPT[10][1])
 
 prs.save(OUT)
