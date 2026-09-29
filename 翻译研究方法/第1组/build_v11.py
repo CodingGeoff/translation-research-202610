@@ -31,8 +31,9 @@ WARN = "B4451F"
 WARN_LT = "F7EBE5"
 
 BASE = os.path.dirname(os.path.abspath(__file__))
-JSON_PATH = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "deck_content_v11.json")
-OUT = os.path.join(BASE, "问卷调查法正反例_v11.pptx")
+JSON_PATH = sys.argv[1] if len(sys.argv) > 1 else os.path.join(BASE, "deck_content_v12.json")
+_ver = re.search(r'v(\d+)', os.path.basename(JSON_PATH))
+OUT = os.path.join(BASE, "问卷调查法正反例_v%s.pptx" % (_ver.group(1) if _ver else "x"))
 ASD = os.path.join(BASE, "assets")
 TPL = r"d:\10_Workspace\translation-research-202610\翻译研究方法\template\高级翻译学院专用PPT模板修改版.pptx"
 
@@ -265,17 +266,28 @@ for sd in slides:
         img2 = sd.get("image2")
 
         if img2:
-            max_w, max_h = 4.6, 2.05
+            area_w = 5.75
+            area_top = 1.85
+            area_h = 4.5
+            gap = 0.3
             p1 = os.path.join(ASD, img)
             p2 = os.path.join(ASD, img2)
             sz1 = Image.open(p1).size if os.path.exists(p1) else (1, 1)
             sz2 = Image.open(p2).size if os.path.exists(p2) else (1, 1)
-            w1, h1 = contain(sz1[0], sz1[1], max_w, max_h)
-            w2, h2 = contain(sz2[0], sz2[1], max_w, max_h)
+            r1 = sz1[0] / sz1[1]
+            r2 = sz2[0] / sz2[1]
+            h1 = area_w / r1
+            h2 = area_w / r2
+            if h1 + h2 + gap > area_h:
+                scale = (area_h - gap) / (h1 + h2)
+                h1 *= scale
+                h2 *= scale
+            w1 = h1 * r1
+            w2 = h2 * r2
             x1 = 12.85 - w1
             x2 = 12.85 - w2
-            y1 = 1.9
-            y2 = y1 + h1 + 0.35
+            y1 = area_top
+            y2 = y1 + h1 + gap
             lw = min(x1, x2) - 0.9
             bottom = Y_BOTTOM
             add_picture(s, img, x1, y1, w1, h1, sd.get("caption"))
