@@ -240,11 +240,37 @@ for sd in slides:
             para(tf, ln, 14, cn=CN_BODY, align="c", first=(i == 0), lh=1.4)
 
     elif typ == "toc":
-        tb, tf = add_tb(s, 0.7, Y_HEAD, 6.0, 0.6)
-        para(tf, sd.get("title", "目录"), 26, bold=True, cn=CN_HEAD, first=True)
-        tb, tf = add_tb(s, 0.7, Y_BODY + 0.1, 11.9, 4.2)
-        for i, it in enumerate(sd.get("items", [])):
-            para(tf, it, 18, cn=CN_BODY, first=(i == 0), lh=1.3, after=12)
+        items = sd.get("items", [])
+        title = sd.get("title", "目录")
+        # 左侧装饰大圆 + 标题
+        circ = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(1.15), Inches(1.85), Inches(3.7), Inches(3.7))
+        circ.fill.solid()
+        circ.fill.fore_color.rgb = RGBColor.from_string(TEAL_LT)
+        circ.line.fill.background()
+        circ.shadow.inherit = False
+        tb, tf = add_tb(s, 1.15, 2.85, 3.7, 1.6, anchor="mid")
+        para(tf, title, 27, bold=True, cn=CN_HEAD, color=TEAL, align="c", first=True, lh=1.0)
+        para(tf, "CONTENTS", 13, cn=CN_BODY, color=GREY, align="c", lh=1.0, before=4)
+        # 右侧：圆形编号 + 标题
+        y = 1.62
+        for i, it in enumerate(items):
+            num = s.shapes.add_shape(MSO_SHAPE.OVAL, Inches(5.7), Inches(y), Inches(0.52), Inches(0.52))
+            num.fill.solid()
+            num.fill.fore_color.rgb = RGBColor.from_string(TEAL)
+            num.line.fill.background()
+            num.shadow.inherit = False
+            ntf = num.text_frame
+            ntf.word_wrap = False
+            ntf.margin_left = ntf.margin_right = ntf.margin_top = ntf.margin_bottom = 0
+            ntf.vertical_anchor = MSO_ANCHOR.MIDDLE
+            np_ = ntf.paragraphs[0]
+            np_.alignment = PP_ALIGN.CENTER
+            nr = np_.add_run()
+            nr.text = str(i + 1)
+            set_run(nr, str(i + 1), 15, True, CN_BODY, "FFFFFF")
+            tb, tf = add_tb(s, 6.42, y, 6.3, 0.52, anchor="mid")
+            para(tf, it, 17, cn=CN_BODY, color=BLACK, first=True, lh=1.0)
+            y += 1.05
         foot(s, page, total)
 
     elif typ == "section":
