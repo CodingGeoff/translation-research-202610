@@ -67,7 +67,7 @@ def set_run(r, text, size, bold=False, cn=CN_BODY, color=BLACK, italic=False):
     r.font.name = LAT
     r.font.color.rgb = RGBColor.from_string(color)
     rPr = r._r.get_or_add_rPr()
-    for tag in ("a:ea", "a:cs"):
+    for tag in ("a:ea", "a:cs", "a:hAnsi"):
         e = rPr.find(qn(tag))
         if e is None:
             e = rPr.makeelement(qn(tag), {})

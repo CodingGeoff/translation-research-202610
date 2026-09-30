@@ -1,0 +1,1030 @@
+外语教学与研究（外国语文双月刊）
+Foreign Language Teaching and Research (bimonthly)
+
+口译笔记熟练度量表的开发*
+
+广东外语外贸大学周金华浙江大学董燕萍
+
+提要：口译笔记熟练度是交替传译训练中的重要问题，而笔记熟练度无法通过笔记
+
+产品进行直接评估。因此，基于口译笔记文献、口译学员日志和译员访谈数据，经过多轮
+
+专题小组的讨论，本文尝试设计量表对其进行测量。最终的口译笔记熟练度量表包括
+
+21 个题项共四个维度：听记协调性、笔记的时效性、笔记的系统性及笔记的利用。数据
+
+统计结果证实了量表在四个维度的建构效度，并发现量表具有较高的内部一致性信度、
+
+内容效度（经专家评估）及效标关联效度（与笔记技能练习量中度相关、与口译学习动
+
+机及口译绩效高度相关）。因此，本研究所编制的量表可用于检测交传学员的笔记熟练
+
+度，其中的四个维度对口译笔记教学有启示作用。
+
+关键词：口译笔记、笔记熟练度、量表开发、量表
+
+[中图分类号] H315.9 [文献标识码] A [文章编号]1000-0429（2019）06-0925-13
+
+1.引言
+
+笔记是交替传译中的一项重要技能（Gillies 2009），其重要性早在20 世纪
+
+50 年代就得到关注。从起初的经验总结与理论探讨，到近年来的实证研究，有
+
+关口译笔记的研究主要关注笔记的记录方法（如Rozan 1956/2004；Dam 2004；
+
+戴炜栋、徐海铭 2007）。然而，口译笔记作为一项极具挑战性的技能，不是学习
+
+者掌握一些原则或规律就能马上习得的，译员往往需要经过大量的练习才能熟
+
+练地记笔记。因此，口译笔记的熟练度问题值得关注。但口译笔记熟练度如何
+
+测量，是一个至今尚未有相关研究的问题。
+
+笔记只是交传中辅助记忆的手段，我们不能通过分析所记录的文本来评估
+
+口译笔记熟练度，记录速度或记录量也不足以代表口译笔记熟练度。本研究基
+
+* 本文系国家社科基金重点项目“口译训练功效的认知及神经机制研究”（15AYY002；主持人董燕萍）的阶段性成果。董燕萍为本文通讯作者。
+
+于口译笔记文献和口译学员日志及译员访谈数据，结合口译笔记任务特点，尝试
+
+开发口译笔记熟练度量表。这一尝试也许能够为口译笔记的量化研究带来新的
+
+契机，促进口译笔记的训练，进而推动口译训练与教学的发展。
+
+2.文献综述：笔记熟练度概念的提出
+
+口译笔记是一项复杂的技能，对于口译学员来说是一项困难的任务。例如，
+
+徐海铭、柴明颎（2008）发现，学员在口译笔记中出现注意力分配失衡、笔记无法
+
+辨认和理解、源语信息回忆不出、笔记缺乏系统性等困难。口译研究者和译员也
+
+认识到口译笔记技能需经过专业训练才能获得（如Gile 1995；Gillies 2009），要
+
+经历一个逐渐熟练的过程。然而过往口译笔记研究主要探讨口译笔记的记录形
+
+式、记录内容以及笔记过程，未关注到口译笔记熟练度的发展。
+
+近年来，口译笔记研究主要探讨几类内容：一是译员笔记所呈现的形式
+
+特征，例如，笔记的语言、笔记的量、符号的使用（如Dam 2004；戴炜栋、徐海
+
+铭 2007；高彬 2019）；二是笔记形式特征与口译质量的关系（如王建华、郭薇
+
+2015）；三是笔记内容（如王文宇、周丹丹 2014），考察记录内容及其对口译产出
+
+的作用；四是笔记过程，运用智能笔、录音录像、眼动仪等技术，考察笔记过程的
+
+认知负荷（如Chen 2017）、心理决策过程（如杨柳燕 2017）、笔记困难（如徐海
+
+铭、柴明颎 2008）。可见，现有口译笔记研究关注的焦点是笔记方法（记录形式、
+
+记录内容），同时有部分学者开始关注笔记的加工过程，这些研究加深了人们对
+
+口译笔记的认识。
+
+口译笔记是一项技能，熟练度是技能的一个维度。口译研究中尚未关注
+
+到笔记技能的熟练因素，但在其他研究领域，如教育心理学，技能的熟练得到
+
+了深入研究。与“熟练”相对应的英文概念有fluency、expertise、proficiency、 mastery、being skilled、automatization，这些概念在英文文献中交叉使用，意义
+
+相近。经文献考察， fluency 与笔记的“熟练”概念最为吻合。李家治等（1956）
+
+认为，技能的形成必须通过熟练才能产生。Johnson & Layng（1996）认为熟
+
+练（fluency）是技能的一个维度，而不仅仅是技能的一项评估指标。关于技能
+
+熟练的机制，李家治等（1956）通过实验结果说明熟练是一定行为多次重复的
+
+结果。有研究表明，复杂技能，如口译技能的熟练需要5000-10000 小时的练习
+
+（Ericsson 2000）。
+
+由于口译笔记自身的特点，笔记熟练度无法通过笔记产品直接测量；也无
+
+法单纯通过时间指标，如译员听到源语信息和在笔记中记录该信息的时间间隔
+
+（ear-pen span）有效测得；亦无法通过笔记过程的质性数据（如有声思维数据）
+
+进行标准化测量。另外，与语言熟练度不同，口译笔记熟练度不直接被他人所
+
+感知，因此笔记熟练度也无法通过他人评估进行测量。口译笔记包含笔记记录
+
+（note writing）和笔记理解（note reading）两个阶段。然而，就口译笔记熟练度的
+
+测量，现有的语言熟练度测量方法不能为我们提供有效参考。比如，书写熟练度
+
+（handwriting fluency）以每分钟默写的字母个数为测量指标（Olive et al. 2009）；
+
+阅读熟练度（silent reading fluency）通过单位时间内阅读句子并判断句子正误
+
+任务中答对的句子个数进行测量（Wagner 2011）。口译笔记是一项多任务同时
+
+处理的认知活动，与一般书写和阅读理解有本质区别，上述方法不适用于口译笔
+
+记熟练度的测量。
+
+口译笔记熟练度应如何评估？计算机技能研究结果可提供借鉴。在计算
+
+机技能研究中，计算机技能通常通过自评量表进行测量（如Potosky & Bobko
+
+1998；Bunz 2004）。例如，Bunz（同上）开发和验证了电脑- 邮件- 网络熟练
+
+度量表（CEW Fluency Scale），从电脑熟练度、邮件熟练度、网络导航、网络编辑
+
+4 个维度测量计算机技能熟练度。与计算机技能相同，口译笔记也是一项复合
+
+技能，涉及多种成分技能，难以通过单一任务进行有效测量。此外，笔记熟练度
+
+不明显为他人感知，自我评价将是一种较可行的测评方法。量表可对技能熟练
+
+度进行多维、自评式测量，因此本研究将开发自评量表对口译笔记熟练度进行
+
+检测。
+
+3.量表的编制与测试
+
+在量表的开发过程中，我们遵循了量表开发的规范（DeVellis 2003），采取了
+
+以下步骤：口译笔记熟练度构念界定、量表题项编写和评审、量表试测、正式测
+
+试、信度和效度检验。
+
+3.1 口译笔记熟练度构念及维度
+
+关于技能的熟练，Johnson & Layng（1996）曾提出针对所有技能的熟练定
+
+义，他们认为熟练指的是顺畅、轻松、训练有素、准确的行为表现。事实上，有关
+
+熟练的研究往往是对特定技能熟练度的研究，熟练的定义通常与特定技能相结
+
+合。以阅读熟练度为例，Meyer & Felton（1999：284）对其定义是“能够快速、
+
+顺畅、轻松、自如地阅读篇章，而对阅读机制几乎毫无意识”。从信息加工的角
+
+度看，LaBerge & Samuels（1974）认为熟练意味着信息加工过程自如、轻松因
+
+而注意力能够重新分配。Wolf & Katzir-Cohen（2001）认为熟练是一个多维概
+
+念，包含各项子技能，另外，技能的熟练是发展变化的，因此对熟练的定义应是
+
+多维、发展的。在数学解题熟练度的研究中，Lin & Kubina（2005）考察了成分
+
+技能（component skill）熟练度与总技能（composite skill）熟练度之间的关系，发
+
+现成分技能的熟练对总技能的熟练起重要作用，两者高度相关。作为一项由多
+
+项子技能构成的复杂技能，口译技能的熟练要求对各项子技能进行整合（Moser-
+
+Mercer et al. 2000）。
+
+基于技能熟练度研究成果，我们初步认为口译笔记技能熟练度是一个多维、
+
+发展性构念。为了明确口译笔记熟练度构念的构成，我们分析了前期口译笔记
+
+研究中有关口译笔记的描述，收集口译学员、口译教师和职业译员对口译笔记的
+
+看法。我们以学习日志的方式，收集本科学员在口译笔记学习中的感受。学员
+
+以日志的形式，描述口译学习体验，日志内容、篇幅和格式不限，日志收集后对其
+
+中关于口译笔记的描述进行整理和分析，共收集学习日志72 份。我们对4 位学
+
+生译员和6 位口译教师（亦是职业译员）进行开放型访谈，请他们就交传笔记发
+
+表自己的看法。
+
+由过往关于技能熟练度的研究可知，复杂技能的熟练是各项成分技能熟练
+
+的结果（如Lin & Kubina 2005）。因此，我们对口译笔记技能熟练度构念进行定
+
+义的思路是分析构成口译笔记技能的主要成分技能及其要求，然后描述这些成
+
+分技能和总技能的熟练状态。Gile（1995）将交传过程分为两个阶段：第一个阶
+
+段译员进行听力理解与分析、笔记记录、短期记忆和协调；第二个阶段译员进行
+
+笔记理解、回忆和口译产出。与交传的两个阶段对应，口译笔记也包括两个阶
+
+段：笔记记录和笔记理解。在笔记记录阶段，译员需要同时进行听力理解和分
+
+析，因此笔记记录实现的前提是译员具备协调听力理解和记笔记的能力；在笔记
+
+理解阶段，译员先理解笔记并进行记忆提取，然后产出译文，因此协调问题不那
+
+么明显。我们的学员日志、访谈数据以及过往口译笔记研究（如徐海铭、柴明颎
+
+2008）也显示，听记的协调性非常重要。由于口译笔记较日常笔记特殊，在口译
+
+中要顺利地记笔记，需经过专业训练和大量练习，形成适用于口译任务的笔记体
+
+系；口译笔记的系统性对译员来说非常重要（Gillies 2009）。此外，口译任务要
+
+求及时理解与产出，笔记应具有时效性（timeliness）。在笔记理解阶段，如本研
+
+究的学员日志、访谈数据和过往研究（如徐海铭、柴明颎 2008）所显示的，译员
+
+的主要困难是笔记辨识、理解和借用笔记进行回忆，也就是笔记的使用问题。
+
+综上，我们对口译笔记熟练度的描述性定义是：对笔记技术精通而有经验，
+
+形成习惯，记录起来顺畅、轻松自如，笔记解读轻易快速。口译笔记熟练的操作
+
+定义是：在笔记记录阶段，能协调听力和笔记记录，按照一定的记录习惯和体系，
+
+及时完成记录任务；在笔记理解阶段，能快速辨认笔记字迹、理解笔记含义并回
+
+忆源语信息。基于上述操作定义以及前文的分析，我们认为交传笔记熟练度包
+
+括听记协调性、记录系统性、时效性、笔记使用四个维度。
+
+根据口译笔记熟练度构念及维度，借助学习日志和访谈数据，撰写量表题
+
+项。每个题项尽量使用符合译员表达习惯的语言。撰写时遵从几条原则：语言
+
+1（DeVellis 2003）。量表
+
+通顺简洁、意思明确、解读唯一、题项间避免不恰当重复
+
+测量笔记的熟练度，因此题项的编写在内容上只描述熟练度构念，并与笔记的其
+
+他因素区分开来，例如，不包含对笔记具体记录方式的描述（如“我的笔记纵向
+
+记录”），不包含笔记质量方面的描述（如“看着笔记我能准确回忆原文信息”），
+
+也不包含记录内容的描述（如“我主要记录关键词”）。
+
+题项撰写后请5 名口译学员和3 名口译教师对题项进行评审。根据评审意
+
+见，我们删除了语言表达不清、不恰当重复的题项，完善了其中部分题项，同时增
+
+加了个别题项以全面涵盖笔记熟练度构念，并对量表的排版做了调整。对修正
+
+后的量表题项再次评审，并在研究小组内讨论。编写的初始题项库共有74 个题
+
+项，经过3 轮评审和讨论，历时半年，形成了口译笔记熟练度预试量表。预试量
+
+表包含四个维度，共28 个题项，采用李克特6 分量表形式。为了进一步检验量
+
+表质量，我们对预试量表进行试测。
+
+3.3 试测
+
+某重点本科院校54 名翻译专业本科大三学生参加了测试，回收有效问卷
+
+54 份。按照吴明隆（2010）建议的量表题项分析步骤，我们对试测数据进行了
+
+极端组比较和同质性检验。基于分析结果，删除了各项指标不理想的7 个题项，
+
+保留四个维度共21 个题项（见表1），保留的题项重新随机排序后生成口译笔
+
+2。为了使受试能够客观地描述自己的笔记情况，量表命名为
+
+记熟练度正式量表
+
+“口译笔记自我描述”。
+
+表1.正式量表的四个维度
+
+维度题项内容
+
+听记协调性
+3
+当我专心记笔记，就听不清讲话人的逻辑。
+
+6
+听和记笔记同时进行对我来说很难协调。
+
+8
+当我专心听录音，我的笔记会记不好。
+
+9
+边听边记笔记对我来说很困难。
+
+17
+我能自如地边听边记笔记，感觉互不干扰。
+
+1 在量表开发中，需要区分有用的重复（redundancy）和不恰当的重复。有用的重复指题项间在测量的构念上重复、表达的意思相近但语言表述有所不同（DeVellis 2003：65），不恰当的重复是指题项间的语法结构和措辞几乎相同。
+
+2 因篇幅所限，口译笔记熟练度正式量表从略。感兴趣的读者可向我们索阅。
+
+维度题项内容
+
+时效性
+1
+我的笔记整体上能够跟得上发言人的节奏。
+
+4
+录音播放结束后，我需要一段时间来继续写完笔记。
+
+13
+我记笔记的速度太慢，跟不上发言人的节奏。
+
+20
+录音播放结束时，我也基本写完笔记。
+
+系统性
+2
+我不知道笔记该记录什么。
+
+5
+我的笔记记得很乱。
+
+10
+我在使用符号记录的时候要想一下。
+
+12
+我有自己熟练使用的一些笔记符号。
+
+15
+我不知道如何使用符号。
+
+笔记使用
+7
+我能看懂自己的笔记符号代表的意思。
+
+11
+记完笔记后回看笔记，我能理解笔记代表的意思。
+
+14
+我能看懂自己的笔记。
+
+16
+看着笔记我能清晰地回忆原文的内容。
+
+18
+看着笔记我能回忆原文的逻辑关系。
+
+19
+看着笔记我能轻松地回忆原文的内容。
+
+21
+我能轻易辨认自己笔记的字迹。
+
+3.4 正式测试
+
+我国华南地区某重点本科院校145 名本科三年级学生参加笔记熟练度量表
+
+的正式测试，回收有效问卷144 份。所有受试在参加量表测试前都已接受了近
+
+1 学年的有笔记交传训练。为考察量表的效标关联效度，我们抽取了其中两个
+
+自然班共48 名受试，完成口译动机量表和口译笔记练习时间问卷。受试填写问
+
+卷报告每周口译练习时长（以“小时”为单位）以及练习时是否记录笔记。由于
+
+48 名受试为同一院校同专业同年级学生，每位受试口译学习年限相同，因此只
+
+收集受试每周有笔记口译的练习时间作为笔记练习时间数据。口译学习动机测
+
+试采用蔡任栋、董燕萍（2017）开发的口译学习动机量表。
+
+4.结果
+
+将有效问卷的分数进行录入之后，对量表中的反向题进行反向计分。反向
+
+题在计分时进行转换，李克特6 分量表中，6 分转换为1 分，5 分转换为2 分，
+
+依此类推。量表正向题共11 道（题项1、7、11、12、14、16、17、18、19、
+
+20、21），反向题共10 道（题项2、3、4、5、6、8、9、10、13、15）。
+
+按照吴明隆（2010）建议的量表题项分析方法，我们采用极端组比较法和同
+
+质性检验对题项进行分析。结果表明，各题项都非常理想（见表2）。
+
+表2.量表题项分析结果
+
+极端组
+
+题项与总分相关同质性检验
+
+比较
+
+未达标准
+
+题项
+
+指标数决断值题项与总分相关
+
+题项删除后的ａ值共同性因素负荷量
+
+1 7.184**
+.575**
+.896
+.341
+.584 0
+
+2 9.266**
+.650**
+.894
+.408
+.638 0
+
+3 6.793**
+.566**
+.897
+.307
+.554 0
+
+4 4.690**
+.418**
+.900
+.159
+.399 2
+
+①
+
+5 8.791**
+.655**
+.894
+.415
+.644 0
+
+6 6.613**
+.623**
+.895
+.397
+.630 0
+
+7 6.497**
+.504**
+.898
+.261
+.511 0
+
+8 5.820**
+.554**
+.897
+.299
+.547 0
+
+9 9.750**
+.729**
+.892
+.545
+.738 0
+
+10 4.849**
+.497**
+.898
+.220
+.469 0
+
+11 7.709**
+.587**
+.896
+.367
+.606 0
+
+12 7.404**
+.608**
+.896
+.347
+.589 0
+
+13 6.890**
+.656**
+.894
+.433
+.658 0
+
+14 7.979**
+.541**
+.897
+.307
+.554 0
+
+15 8.373**
+.627**
+.896
+.360
+.600 0
+
+16 7.944**
+.680**
+.894
+.494
+.703 0
+
+17 5.162**
+.538**
+.897
+.288
+.537 0
+
+18 6.828**
+.606**
+.896
+.391
+.626 0
+
+19 7.333**
+.609**
+.895
+.397
+.630 0
+
+20 6.125**
+.514**
+.898
+.267
+.517 0
+
+21 4.992**
+.485**
+.899
+.244
+.494 0
+
+判标准则
+≥3.000
+≥.400
+≤.901
+
+②
+≥.200
+≥.450
+
+注：* p＜.05； ** p＜.01。
+
+① 题项4 只有2 项指标未达标准，而其他3 项指标均达到标准，通过极端组比较、题项与总分相关检验
+
+以及同质性的一项检验。因此，经题项分析综合评鉴，题项4 可以保留。
+
+② .901 为口译笔记熟练度全量表的内部一致性ａ系数（见表3）。如果删除题项后全量表信度系数比原
+
+来高，说明该题项与其他题项的同质性不高，应考虑删除。
+
+对口译笔记熟练度量表进行信度分析，量表的Cronbach’s Alpha 值为.901。
+
+对量表各维度进行信度分析，结果显示各个维度信度较高（见表3）。
+
+表3.各维度信度及总量表信度
+
+维度
+Cronbach’s Alpha 值题项个数
+
+听记协调性
+.812 5
+
+时效性
+.772 4
+
+系统性
+.803 5
+
+笔记使用
+.859 7
+
+全量表
+.901 21
+
+4.3 效度检验
+
+本研究通过内容效度、建构效度和效标关联效度对口译笔记熟练度量表进
+
+行效度检验。
+
+4.3.1 内容效度
+
+内容效度（content validity）指量表题项内容的适切性与代表性（吴明隆
+
+2010：195）。初始题项编写后，我们邀请5 名学生译员和3 名口译教师对题项
+
+3。专家评估题项与维度是否匹配、题项是否具有代表性、是否涵盖笔
+
+进行评审
+
+记熟练度构念、内容是否重复、语言是否通顺、清楚和简洁。经过3 轮评审生
+
+成的预试量表进行试测，试测数据分析后生成的正式量表由评审小组进行最后
+
+的评审。正式量表的内容效度评价使用内容效度指数（content validity index，
+
+CVI）进行量化。我们请8 名专家组成员填写专家咨询问卷，对各题项与相应内
+
+容维度的关联性做出判断，问卷采用4 级量表形式。数据统计结果显示，评价者
+
+间一致性水平为1。口译笔记熟练度量表每个题项的内容效度指数I-CVI 均为
+
+1，全量表的全体一致内容效度指数S-CVI/uA 和平均内容效度指数S-CVI/Ave
+
+均为1，说明量表的内容效度优秀（Polit et al. 2007）。
+
+4.3.2 建构效度
+
+为检验量表的建构效度（construct validity），我们对量表进行了因素分
+
+析。首先进行 KMO 检验和Bartlett’s 球形度检验，结果显示KMO 值为.854,
+
+3 内容效度评价的专家组成员人数一般需5 人，最少3 人，没有上限但一般不超过10 人（Lynn 1986：
+383）。
+
+Barlett’s 球形度检验卡方值为1406.655（p<.01），说明量表适合进行因素分析。
+
+在SPSS 软件中采用主成分分析法配合正交转轴法、不限定抽取因素个数进行因
+
+素分析。结果显示，共有4 个共同因素的特征值大于1，累计解释60.49% 的变异
+
+量，说明共同因素是可靠的（吴明隆 2010：205），能有效解释所测的心理特质。
+
+因素分析结果显示，抽取的4 个共同因素与预设的四个维度相吻合（见表4），数
+
+据支持口译笔记熟练度量表四个维度的区分，说明量表具有良好的建构效度。
+
+表4.题项的因素负荷量
+
+题项因素1
+因素2
+因素3
+因素4
+
+14
+.790
+-.106
+.161
+.229
+
+21
+.765
+.051
+-.051
+.129
+
+11
+.720
+.071
+.213
+.140
+
+16
+.676
+.498
+.160
+-.121
+
+7
+.675
+-.048
+.271
+.060
+
+19
+.674
+.421
+.047
+-.053
+
+18
+.571
+.391
+.049
+.144
+
+6
+.129
+.760
+.160
+.142
+
+17
+.093
+.711
+.108
+.085
+
+8
+-.001
+.654
+.240
+.184
+
+9
+.228
+.608
+.321
+.313
+
+3
+.029
+.606
+.241
+.228
+
+15
+.117
+.243
+.815
+.044
+
+12
+.268
+.291
+.723
+-.182
+
+10
+-.047
+.233
+.669
+.149
+
+2
+.308
+.139
+.633
+.242
+
+5
+.418
+.124
+.484
+.297
+
+4
+-.068
+.167
+.126
+.787
+
+20
+.292
+.130
+.004
+.754
+
+1
+.233
+.315
+.079
+.647
+
+3
+.127
+.508
+.240
+.513
+
+注：与表1 对照，因素1、2、3、4 中的题项分别是“笔记使用”、“听记协调性”、“系统性”、“时效性”中的题项。
+
+4.3.3 效标关联效度
+
+效标关联效度（criterion-related validity）指量表与外在效标间关系的程度
+
+（同上：195）。本研究使用练习量、口译学习动机、口译绩效作为效标，检验口译
+
+目前普遍认为，技能的熟练主要归功于练习带来的强化作用。许多研究阐
+
+述了练习与技能熟练的关系（如Newell & Rosenbloom 1981），认为练习时间是
+
+影响技能熟练的主导因素。例如，Bunz（2004）研究发现网络使用时间是电脑-
+
+网络- 邮件技能熟练度最强有力的预测变量。但也有研究表明，练习虽能促进
+
+技能的熟练，但技能的熟练还受其他因素的影响。例如，张春莉（2001）研究发
+
+现，练习时间对技能熟练的促进作用还受个体的智力和认知水平、外部指导等因
+
+素影响。由此可预测，如果口译笔记熟练度量表具备较高的构念效度，应与口译
+
+笔记练习时间有一定的相关；同时，熟练度还有一部分变异是练习时间无法解释
+
+的。对受试口译笔记练习时间和笔记熟练度计算效标系数，结果显示口译笔记
+
+熟练度与练习时间的相关系数为.473，p 值小于.01，为中度相关（Runyon et al.
+
+2000：177），练习时间能解释22.4% 的口译笔记熟练度的变异。
+
+动机是口译学习中一个重要因素，因为口译学习要求持续的练习，没有高水
+
+平的学习动机，学员很难保证足够的练习投入。口译学习动机对口译能力的发
+
+展产生影响（Timarová & Salaets 2011）。笔记技能是口译的一项成分技能，口译
+
+学习动机与口译笔记技能熟练度也应呈一定正相关。数据分析证实了我们的预
+
+测，口译笔记熟练度与口译学习动机高度相关（r = .539，p<.01）。
+
+为考察量表与口译绩效的关系，34 名华南地区某重点院校口译方向硕士
+
+生参加了口译笔记熟练度量表和口译能力两项测试。与上述144 名受试相比，
+
+这些受试口译学习的时间更长（平均1.98 年），接受口译训练的强度更大。口
+
+译测试内容为一篇真实会议的英语演讲。测试在模拟真实口译任务的场景下进
+
+行，受试收到译前准备材料并进行译前准备，然后进行英- 汉交传。数据分析结
+
+果显示，口译笔记熟练度与口译绩效高度相关（r = .556，p<.01）。口译笔记熟
+
+练度能显著预测口译绩效，解释口译成绩30.9% 的变异。
+
+4.4 量表常模数据
+
+常模数据（normative data）能够为口译学员和教师提供参考信息。我们采
+
+用整群抽样的方法，从华南地区两所重点院校抽取翻译专业三年级本科生和高
+
+级翻译专业一年级硕士生作为样本。本科学员有效受试共144 人，男生15 名，
+
+女生129 名，平均年龄为20.96 岁（标准差0.774）；硕士生学员共34 人，男生6
+
+名，女生28 名，平均年龄为23.35 岁（标准差0.849）。本科口译学员接受了近1
+
+学年的口译训练，研究生学员平均接受了2 年的口译训练，可分别视为初级口译
+
+学员和高级口译学员。两组学员口译笔记熟练度量表测试数据的描述性统计结
+
+果如表5。独立样本t 检验显示，初级学员与高级学员在全量表得分和各维度
+
+表5.初、高级口译学员量表题项均值（标准差）以及学员组间比较
+
+维度初级学员高级学员组间差异（t, p 值）
+
+听记协调性
+3.075（0.695）
+3.465（1.006）
+0.390（2.141, .038）
+
+时效性
+3.349（0.664）
+3.956（0.808）
+0.607（4.591, .000）
+
+系统性
+3.618（0.817）
+4.353（0.796）
+0.735（4.741, .000）
+
+笔记使用
+4.198（0.620）
+4.550（0.618）
+0.352（2.979, .003）
+
+全量表
+3.631（0.538）
+4.132（0.675）
+0.501（4.639, .000）
+
+注：每个题项的分值范围为1-6 分（李克特6 分量表）。
+
+5.讨论
+
+基于对口译笔记研究和教学现状的深入了解，我们关注到口译学员笔记熟
+
+练度的问题，并设计了量表对口译笔记熟练度进行测量。研究结果对口译笔记
+
+熟练度研究具有理论上的启示作用。研究结果表明，口译笔记技能熟练度可通
+
+过自评量表进行有效测量。另外，口译笔记熟练度是一个多维、发展的构念。量
+
+表预设的四个维度经数据分析得到验证，说明口译笔记技能熟练包含各项成分
+
+技能的熟练，是一个多维的构念。初级、高级口译学员的口译笔记熟练度存在显
+
+著差异，说明口译笔记熟练度在口译训练过程中是变化发展的。
+
+研究结果揭示了口译笔记技能熟练与口译能力之间的关系。口译笔记熟练
+
+度显著预测口译成绩，说明笔记技能是口译整体技能的一部分，熟练度是笔记技
+
+能的一个重要因素。这对口译教学的启示是，教师在教授笔记原则和记录方法
+
+的同时，还应关注学员笔记熟练度的发展，培养学生译员熟练记笔记的能力，以
+
+提高口译能力。
+
+口译笔记熟练度量表具有实际应用价值。量表由四个维度构成，口译教师
+
+可将其应用于口译教学中，检测学员笔记技能各个维度的熟练水平，并给予学员
+
+针对性指导。例如，本研究就发现，四个维度中听记协调性的题项均值最低，说
+
+明听记协调对于学员来说可能比较困难，应加强这方面的训练。另外，初级和高
+
+级学员在时效性和系统性两个维度上的差异比较大，说明经过训练后，口译学员
+
+可能在笔记系统性、时效性上的进步较为明显。
+
+研究结果对口译笔记学习具有一定的指导意义。回归分析显示，口译笔记
+
+练习时间能显著预测笔记熟练度，解释笔记熟练度22.4% 的变异，说明练习量
+
+对口译笔记技能的熟练作用显著，启示口译学员在口译学习过程中应多加练习。
+
+需要说明的是，本研究的受试同质性较高。他们是同一院校相同专业的学生，口
+
+译课程和授课教师、口译学习年限相同。在各种变量得到控制的条件下，每周练
+
+习时间对笔记技能熟练的影响显著。如果量表应用于其他样本，在考察练习时
+
+本研究对口译笔记量化研究的发展具有一定意义。在近年的口译笔记研究
+
+中，关注最多的是笔记特征与口译质量的关系，但各研究的结果不一。过往研究
+
+都未控制笔记熟练度因素或其他可能的混淆变量，而本研究数据显示，口译笔记
+
+熟练度能够解释口译成绩30.9% 的变异，因此未来在考察笔记特征与口译质量
+
+的关系时，可尝试控制笔记熟练度变量，以得到更稳定可靠的研究结果。
+
+6.结语
+
+本研究基于对口译笔记研究现状和口译笔记学习与教学现实的深入了解，
+
+提出了口译笔记熟练度的概念，并设计了量表对其进行测量。经验证，量表具有
+
+较好的信度和效度。口译笔记熟练度量表能显著预测口译成绩；不同学习阶段
+
+口译学员的笔记熟练度存在显著差异。研究结论是： 1）口译笔记技能熟练度是
+
+存在的，并能通过自评量表进行有效测量； 2）熟练度是口译笔记技能的一个重
+
+要因素，口译笔记技能熟练是口译能力的一部分； 3）口译笔记熟练度是发展的，
+
+可以通过练习加以提高。
+
+参考文献
+
+Bunz, U. 2004. The Computer-Email-Web (CEW) fluency scale-development and validation [J].
+
+International Journal of Human-computer Interaction 17: 479-506. Chen, S. 2017. The construct of cognitive load in interpreting and its measurement [J]. Perspectives
+
+25: 640-657. Dam, H. 2004. Interpreters’ notes: On the choice of language [J]. Interpreting 6: 3-17. DeVellis, R. 2003. Scale Development: Theory and Applications [M]. Thousand Oaks, CA.: Sage．
+Ericsson, K. 2000. Expertise in interpreting: An expert-performance perspective [J]. Interpreting 5:
+
+187-220. Gile, D. 1995. Basic Concepts and Models for Interpreter and Translator Training [M].
+
+Amsterdam: John Benjamins. Gillies, A. 2009. Note-taking for Consecutive Interpreting: A Short Course [M]. Shanghai:
+
+Shanghai Foreign Language Education Press. Johnson, K. & T. Layng. 1996. On terms and procedures: Fluency [J]. Behavior Analyst 19: 281-
+
+288. LaBerge, D. & S. Samuels. 1974. Toward a theory of automatic information processing in reading
+
+[J]. Cognitive Psychology 6: 293-323. Lin, F. Y. & R. Kubina. 2005. A preliminary investigation of the relationship between fluency and application for multiplication [J]. Journal of Behavioral Education 14(2): 73-87. Lynn, M. 1986. Determination and quantification of content validity [J]. Nursing Research 35:382-
+
+385. Meyer, M. & R. Felton. 1999. Repeated reading to enhance fluency: Old approaches and new directions [J]. Annals of Dyslexia 49(1): 283-306. Moser-Mercer, B., U. Frauenfelder, B. Casado & A. Künzli. 2000. Searching to define expertise in interpreting [A]. In B. Englund Dimitrova & K. Hyltenstam (eds.). Language Processing and Simultaneous Interpreting. Interdisciplinary Perspectives [C]. Amsterdam: John Benjamins. 107-131. Newell, A. & P. Rosenbloom. 1981. Mechanisms of skill acquisition and the law of practice [J].
+
+Cognitive Skills and Their Acquisition 1: 1-55. Olive, T., M. Favar, C. Beauvais & L. Beauvais. 2009. Children’s cognitive effort and fluency in writing:
+
+Effects of genre and of handwriting automatization [J]. Learning & Instruction 19: 299-308. Polit, D., C. Beck & S. Owen. 2007. Is the CVI an acceptable indicator of content validity?
+
+Appraisal and recommendations [J]. Research in Nursing & Health 30: 459-467. Potosky, D. & P. Bobko. 1998. The computer understanding and experience scale: A self-report measure of computer experience 1 [J]. Computers in Human Behavior 14: 337-348. Rozan, J. 1956/2004. Note-taking in Consecutive Interpreting [M], trans. A. Gillies. Cracow:
+
+Tertium Society for the Promotion of Language Studies. Runyon, R., K. Coleman & D. Pittenger. 2000. Fundamentals of Behavioral Statistics [M]. Boston:
+
+McGrawHill．
+Timarová, S. & H. Salaets. 2011. Learning styles, motivation and cognitive flexibility in interpreter training: Self-selection and aptitude [J]. Interpreting 13: 31-52. Wagner, R. 2011. Relations among oral reading fluency, silent reading fluency, and reading comprehension: A latent variable study of first-grade readers [J]. Scientific Studies of Reading the Official Journal of the Society for the Scientific Study of Reading 15: 338-362. Wolf, M. & T. Katzir-Cohen. 2001. Reading fluency and its intervention [J]. Scientific Studies of
+
+Reading 5: 211-239.
+蔡任栋、董燕萍，2017，口译学习动机量表的开发与验证 [J]，《外语界》（6）：45-52。
+戴炜栋、徐海铭，2007，汉英交替传译过程中译员笔记特征实证研究——以职业受训译员和
+
+非职业译员为例 [J]，《外语教学与研究》 （2）：136-144。
+高彬，2019，英汉交替传译笔记中的语言选择发展规律——基于口译学习者的横向研究
+
+[J]，《中国翻译》（1）：83-90。
+李家治、赫葆源、赵璧如，1956，运动动力定型中的顺序反应 [J]，《心理学报》（1）：95-106。
+王建华、郭薇，2015，口译笔记认知与非英语专业学生交传质量的相关性 [J]，《外语与外
+
+语教学》 （4）：68-74。
+王文宇、周丹丹，2014，口译笔记内容与口译产出关系的实证研究 [J]，《解放军外国语学院
+
+学报》 （2）： 115-121。
+吴明隆，2010，《问卷统计分析实务：SPSS 操作与应用》[M]。重庆：重庆大学出版社。
+徐海铭、柴明颎，2008，汉英交替传译活动中译员笔记困难及其原因的实证研究——以国际
+
+会议职业受训译员和非职业译员为例 [J]，《外语学刊》（1）：122-127。
+杨柳燕，2017，数字技术辅助下的交传笔记研究 [J]，《外语教学理论与实践》（3）：91-97。
+张春莉，2001，样例和练习在促进解题迁移能力中的作用 [J],《心理学报》（2）：170-175。
+
+收稿日期：2018-10-22；修改稿，2019-08-06；本刊修订，2019-09-30
+通讯地址：510420 广东省广州市广东外语外贸大学外国语言学及应用语言学研究中心（周）
+310058 浙江省杭州市浙江大学外国语言文化与国际交流学院（董）
+
+inflectional features and its EPP feature is optional, while tense in English has inflectional features which have special categorical requirements for its host and its EPP feature is obligatory. A largescale cross-linguistic comparison shows these superficial variations recede into insignificance while the underlying typological categories, like tense, appear to overwhelm all surface formal structures. A study on referentiality and movement restrictions in Mandarin Chinese DP ellipsis (p.901)
+ZHANG Tianwei (National Research Centre for Foreign Language Education, Beijing Foreign Studies University,
+
+Beijing 100089, China)
+This paper investigates the syntactic and semantic restrictions of determiner phrase ellipsis (DPE)
+in Mandarin Chinese, i.e. their referentiality and movement restrictions. It focuses on exploring the syntactic and semantic conditions of DPE in the second clause of a sentence and concludes that the definiteness of the DP and topicalization movement are the necessary conditions for DPE. Elliptical constituents become an external topic after their movement. This analysis gets strong support both from some generative theories and a lot of data from Chinese and English, and it also agrees with Johnson’s (2001) analysis of English verb phrase ellipsis which indicates that the topicalization movement is a restriction for different elliptical structures in many languages. On the working memory of simultaneous interpreters and untrained bilinguals—From a situation model perspective (p.914)
+LIU Yingcheng (School of Foreign Studies, Shanghai University of Finance and Economics, Shanghai 200433, China)
+MEI Deming (Research Center for Foreign Language Planning & Policy, Shanghai International Studies University,
+
+Shanghai 200083, China)
+This study aims to, in terms of the situation model, investigate the differences in working memory between simultaneous interpreters and untrained bilinguals by analyzing their comprehension in simultaneous interpreting and comparing Baddeley’s and Cowan’s working memory models. We conducted an adjusted version of the standard working memory tests by adding an element of the situation model, followed by a retrospective study to probe the availability of cognitive resources in the test hoping to reveal the efficiency of in-depth discourse processing of focus of attention. The results suggest that: 1) the interpreters fail to demonstrate any advantage in rote learning when dealing with verbal information without any situation model; 2) their advantage is only visible when efficient interaction of short-term and long-term memory is required, i.e. the efficient construction of an explicit situation model, and cannot be extended to verbal information with only an implicit situation model; 3) the construction of a situation model is far from a resourcehungry process for interpreters, while rote-learning long lists proves to be otherwise, implying that building a readily available situation model is a somewhat automated process. Developing a note-taking fluency scale for consecutive interpreters (p.925)
+ZHOU Jinhua (Research Center for Linguistics and Applied Linguistics, Guangdong University of Foreign Studies,
+
+Guangzhou 510420, China)
+DONG Yanping (School of International Studies, Zhejiang University, Hangzhou 310058, China)
+
+Fluency in note-taking skills, an important issue in consecutive interpreting training, cannot be directly assessed via an interpreter’s notes. Based on previous studies on note-taking, student interpreters’ journals, interviews with interpreters, and rounds of focus group discussion, the present study developed a scale to assess it. This fluency scale contained 21 items in four constructs: (1)
+coordination between listening comprehension and note-taking, (2) timeliness of note-taking, (3)
+systematicity in note-taking, and (4) note reading. Data analyses validated the four constructs, and showed that the scale had good internal reliability, content validity (by expert evaluation) and criterion-related validity (moderately correlated with amount of note-taking practice, and strongly correlated with learning motivation and interpreting performance). The four constructs have pedagogical implications for note-taking training in interpreting. 40 years research on interpreting in China (1978-2018) (p.938)
+HU Gengshen (School of International Studies, Zhengzhou University, Zhengzhou 450001, China)
+
+The past 40 years of interpreting service and its research since China’s reform and opening prove to be the most active and flourishing period in the Chinese history. This paper, by a thoroughgoing literature review, and quantitatively and qualitatively comparative analysis, took a diachronic look at the 40 years’ changes and development, main problems and their possible solutions in the field of interpreting. The paper concludes by pointing out the existing problems and research trends in interpreting.

@@ -1,0 +1,337 @@
+Hindawi Human Behavior and Emerging Technologies Volume 2022, Article ID 5793054, 11 pages https://doi.org/10.1155/2022/5793054
+
+Research Article On Postediting of Machine Translation and Workflow for Undergraduate Translation Program in China
+
+Zhengang Yang 1,2 and Hema Rosheny Mustafa1
+
+1Language Academy, Faculty of Social Sciences and Humanities, Universiti Teknologi Malaysia, Malaysia 2School of Translation Studies, Xi’an Fanyi University, China
+
+Correspondence should be addressed to Zhengang Yang; yangzhengang@graduate.utm.my
+
+Received 27 January 2022; Revised 3 March 2022; Accepted 9 March 2022; Published 30 March 2022
+
+Copyright © 2022 Zhengang Yang and Hema Rosheny Mustafa. This is an open access article distributed under the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+With the improvement in machine translation output quality, postediting of machine translation has made far-reaching impact upon the language service industry. As a result, it has been introduced to translation training to avoid split between academic discipline and profession. However, postediting of machine translation and its application to undergraduate translation program in China are less studied, and few researches have touched on the students’ own perceptions. Based on a literature review on postediting of machine translation, this study is aimed at identifying the vital role of it and then proposing a practical postediting workﬂow for undergraduate translation education in China. The study adopted a mixed methods approach. Data were collected via online questionnaire responded by students of undergraduate translation program at a university in northwest China and then analyzed from the perspective of technology acceptance model. The results and
+ﬁndings showed that as a promising workﬂow, postediting of machine translation gained positive responses in general from students who have learnt the basics of translation technology. The themes of negative responses include confusing postediting standard, inconsistent quality, ways to choose machine translation providers, and technical issues. The results and ﬁndings indicated that a tailored postediting workﬂow for undergraduate translation program is feasible. By focusing on undergraduate pedagogical settings in China, this study conﬁrmed the ﬁndings of previous studies on the more positive attitude on postediting of machine translation, suggesting that postediting be considered as an important subcompetence in translation education.
+
+1. Introduction tence and strategic subcompetence in addition to linguistic competence [3–5]. The instrumental subcompetence is related to the use of documentation resources and information and communication technologies applied to translation, including the use of resources such as dictionaries, encyclopaedias, style books, parallel texts, electronic corpora, and search engines . The progress in neural machine translation in recent years has brought about improved translation output quality, making machine translation plus postediting a widely accepted model. Postediting (PE), with degrees of light postediting and full postediting, has been widely adopted by professionals to revise raw machine translation to meet quality requirements from understandable level to publishable level.
+
+Nowadays, technologies are getting more complex and constantly emerging and changing even at an accelerating speed, inﬂuencing individuals, groups, organizations, and the modern society as a whole . As a result, more and more technologies are making their way into teaching and learning and oﬀering learners ample opportunities . With the wide use of translation technology in industry, the research into translation competence, profession, academic discipline, and curriculum design is more and more oriented toward the market needs and industry requirement. In order to avoid split between profession and academic discipline, translation competence model has included instrumental subcompe-
+
+2 Human Behavior and Emerging Technologies assisted translation (CAT) as a product category, argued at Nordic Translation Industry Forum (NTFS) 2018 that non-MT users are the non-CAT users of the early 2000s. As the present-day machine translation systems are still imperfect, there is a growing interdependence of human and machine translation , and MT output is often postedited by humans. In terms of speed and cost, MT is the fastest with the lowest price and then followed by postediting and manual translation. Lommel mentions that postediting prices are converging at 60–65% of the cost of human translation. With regard to quality, human translator can easily handle complex syntax and semantics, so the quality is generally higher than that of machine translation . The quality of machine translation largely depends on the selection and optimization of translation engines. The practice of postediting has broken the compromise between price, speed, and quality; as a result, the use of postediting workﬂow has attracted interest to what practices are covered by it and how to integrate it into translation program.
+
+The language service providers expressed their desire to employ translators and interns with at least some basic technical knowledge in this area, and as a result, some western universities have included machine translation and postediting model into translation curricula . However, the application of postediting in undergraduate translation program in China is less studied. The problems faced by postediting in China include inﬂexible research methods and lack of empirical methods . In terms of postediting teaching, explores competence structure and course design of postediting mainly for graduate translation program based on PE courses oﬀered by 10 universities in Europe. According to a regional survey made by Zhao at 6 key universities oﬀering graduate translation program in Beijing (the capital city of China), Shanghai, and Guangzhou (two metropolises in China), none of the universities has listed postediting as a core course. The application of postediting in graduate translation program is far from satisfaction, not to mention the status quo at undergraduate level. Thus, considering the impact of machine translation, the paper takes account of students’ attitude and intention to use this technology and is aimed at proposing a postediting of machine translation workﬂow. It always depends on not only the teacher but also students what workﬂow will serve the translation competence acquisition better. The paper is structured in the following way: Section 2 reviews machine translation and postediting with a special emphasis on postediting as translation competence. Section 3 describes the research design framework, including theoretical framework, methodology, and research design. Section 4 is devoted to data analysis and results. Section 5 presents discussions and implications, and Section 6 presents the conclusion.
+
+2.2. Postediting. Postediting of machine translation, which combines machine translation with human translation, is the process of reviewing and adapting raw machine translation output to ﬁnalize the target text in accordance with translation brief and established requirements. There are a number of deﬁnitions to explain the term postediting. For example, Allen mentions that the task of the posteditor is to edit, modify, and/or correct pretranslated text that has been processed by a machine translation system from a source language into (a) target language(s). The ISO 18587 standard for postediting of machine translation output, which was codiﬁed in 2017, interprets that postediting is performed on MT output for the purpose of checking its accuracy and comprehensibility, improving the text, making the text more readable, and correcting errors. Postediting diﬀers from translation as it involves three texts: the source text, the MT output, and the ﬁnal target text (ISO 18587: 2017). Postediting is diﬀerent from editing and revision. Postediting represents the human intervention for editing the output of a machine translation system, which may involve adding, editing, deleting, rewriting, checking, and so on. In a translation workﬂow, especially within the context of computer-assisted translation (CAT) tools, editing means that translators act on a segment or the matches retrieved from translation memories. So postediting of MT output is diﬀerent from editing of an existing translation suggested by a translation memory, primarily because the type of actions diﬀer . Posteditors need to bear in mind that correcting machine-translated output is diﬀerent from reviewing human translations, for Carmo and Moorkens
+argue that MT does not produce a ﬁnalized translation, but only an “output” or a set of “suggestions” or “hypotheses”
+for the translation of a text. While in revision, a translation that has been produced by a translator will be checked by another qualiﬁed person. There are two main levels of postediting: full postediting and light postediting. Full postediting is the process of postediting to obtain a product comparable to a product
+
+2. Review of Related Literature
+
+2.1. Machine Translation. Machine translation (MT) is the automatic conversion of text from one natural language to another . There are several MT approaches across the years, such as rule-based machine translation (RBMT), corpus-based, statistical machine translation (SMT), and the most recent neural machine translation. The advance and popularity of MT have made substantial impact on the translators’ work and career. Many translation service providers and clients have come to realize that the use of such systems is a viable solution for translating projects that need to be completed within a very tight time frame and/or with a reduced budget (ISO 18587 2017). Though MT does not realize the fully automatic high-quality output without human intervention, it ﬁnds its way to be applied in many cases with acceptable quality as Liu and Zhang specify: on-line translation services, application programming interfaces (APIs) for other applications, and the integration with computer-assisted translation tools. Anastasiou and Gupta
+point out that the future localization paradigm is the combination of automatic translation (a hypernym of machine translation) and human translation. Jochen Hummel, the founder of Trados who had established computer-
+
+3 Human Behavior and Emerging Technologies fessional translation competence. Koponen describes experiences from a translator training course focusing on machine translation and postediting with positive feedbacks from participants. Based on designed learning practice, Öner Bulut suggests that it would be helpful to integrate machine translation into translator training as early as possible with a focus on raising students’ awareness of their roles of postediting. Konttinen et al. discuss postediting competence in the context of translator education programme at MA level and conclude that the postediting competence is one of the fundamental building blocks in a translator’s skill set. Given this trend, postediting as subcompetence merits further academic attention especially in undergraduate translation program in China. It is worth investigating undergraduate students’ attitude toward postediting and their intention of using it and then proposing a feasible postediting workﬂow for them.
+
+obtained by human translation to a publishable quality. After postediting, ﬁles undergo a quality check to ensure that the translation is correct and ﬂuent. In addition to ensuring the correctness of information, appropriation of contents, and unambiguity of sentences, eﬀorts should also be put into the style and formatting rules to ensure the ﬁnal quality. Light postediting is the process of postediting to obtain a merely comprehensible text to an understandable level without any attempt to produce a product comparable to a product obtained through human translation. Most of the time the posteditors try to use the raw MT output as much as possible and only revise the incorrect or misleading sentences
+(ISO 18587: 2017). Light postediting is used for lowvisibility content or texts with a very tight budget and limited time. It is a reasonable option for clients when oﬀering extra service for the users or updating information for lowvisibility content, such as FAQs and blogs. The objective of light postediting is to produce a translation that is understandable and actionable with no critical errors. Light postediting focuses on meaning rather than grammar and style, with readable sentences but not perfect in spelling and grammar. In general, it ﬁts the basic requirements of register but not specialized target readers. Hence, it allows inconsistency of texts and occurrence of style defects, such as punctuation errors.
+
+3.1. Theoretical Framework. The technology acceptance model (TAM) in Figure 1 is one of the most cited models in studying user acceptance and use of technology and digital resources. The model suggests that when users are presented with a new technology, a number of factors inﬂuence their decision about how and when they will use it . The theory is relevant to the theme of this paper. The perceived usefulness and perceived ease of use will have a direct impact on behavioral intention, thus becoming a major determinant on whether the participants will actually use the system. The participants in this paper are students who have ﬁnished courses of omputer-assisted translation and translation practice, so their perceptions of usefulness and ease of use on postediting will inﬂuence on their behavior toward using this technology. The research results of their perceptions could be used as reference before applying postediting workﬂow to undergraduate translation program.
+
+2.3. Postediting as a Subcompetence in Translation Education. Since the turn of the century, several research projects have been launched that focus especially on the measurement and development of translation competence
+. As suggested by Pym and categorized by Lesznyák
+, the approaches to translation competence can be grouped as follows: competence as a summation of linguistic competence, competence as multicomponential, and competence as just one thing. In competence as multicomponential category, PACTE worked with the most sophisticated competence model based in empirical research, coming up with a translation competence model that is divided into six subcompetencies, among which the instrumentalprofessional competence was deﬁned by the PACTE group as predominantly procedural knowledge related to the use of documentation resources and information, and communication technologies applied to translation . Subsequently, technology has been playing an increasingly important role in translation competence, and the ability to use it is considered as a key competence. Pym mentions technology competence and information mining competence at the core of the translation service provider competence. Kenny and Doherty present suggestions for postediting to be taught as extensions of translators’ skills. The industry standard also speciﬁes six competences of posteditors, among which the information acquisition and processing competence and technical competence will be of great importance for reference. In translation education, postediting has been incorporated into curricular since at least 2009 . The European Master’s in Translation-Competence Framework 2017
+recognizes that the ability to interact with machine translation in the translation process is now an integral part of pro-
+
+3.2. Methodology. In order to propose a postediting work-
+ﬂow for undergraduate translation program students, the paper needs to examine the various factors that impact students’ intention to use postediting of machine translation. Quantitative data were analyzed in SPSS for descriptive analysis result, and qualitative data of questionnaire were collected and analyzed in Nvivo to ﬁnd themes in the responses through coding. In this paper, the following research questions are examined: RQ1. What are the students’ positive and negative responses to the use of postediting of machine translation, and do they agree that it really helps them become more eﬃ-
+cient and produce better quality? RQ2. Do their responses have correlation with two course grading of computer-assisted translation and translation practice? RQ3. What are the obstacles hindering the use of postediting of machine translation?
+
+4 Human Behavior and Emerging Technologies
+
+Actual system use Behavioral intention
+
+External variables
+
+Perceived ease of Use
+
+Figure 1: Final version of TAM (, p.453).
+
+and postediting. Moreover, if the participants of third-year and fourth-year have diﬀerent attitude toward postediting in quantitative data, it is necessary to ﬁnd out the reasons based on qualitative analysis of open-ended questions, which may together indicate attitude change over one academic year.
+
+3.3. Participants and Variables. A total of 127 students of Translation Program at a university in northwest China participated in the survey. Among them, there are 39 third-year students with 11 (28.2%) males and 28 (71.8%) females and 88 fourth-year students with 19 (21.6%) males and 69
+(78.4%) females. The average age of the third-year students is 21.3, ranging from 20 to 22; the average age of the fourth-year students is 22.5, ranging from 21 to 24. The participants have ﬁnished two courses relevant to this study: computer-assisted translation course and translation practice course. The third-year students ﬁnished these two courses in the recent semester, and the fourth-year students ﬁnished them in the former academic year. Computer-assisted translation course covers the basics of computer-assisted translation, translation memory, and terminology management. Translation memories are databases that store source sentences and their translations as segment pairs. During the translation process, the auto-propagate function will suggest matches (fuzzy match, exact match, and context match) from the translation memory automatically. All students had access to computers in labs installed with SDL Trados Studio as Translation Environment Tools. The on-line machine translation engines they have tried include API for SDL Trados Studio and web-based machine translation such as Google translate, Bing translator, and Baidu Translate. At the end of the course, they participated in the online SDL Trados Certiﬁcation program: SDL Trados Studio 2019 for Translators–Getting Started certiﬁcation with a 40-point grading scale and pass mark of 30. Translation practice course focuses on general material translation practices covering ﬁelds of economy, culture, education, tourism, and technology. They do translations from both English to Chinese and English to Chinese. The course adopts paper exams with a 100-point grading scale. Two groups of course grading data were collected as variables to examine the possible relationship with the responses to the questionnaire. The computer-assisted translation course values the application of translation technology, so the SDL Trados Certiﬁcation grading is relevant to their technology competence and may indicate students’
+perceived ease of use and preference toward the use of postediting of machine translation. Translation practice course focuses on linguistic competence. Students with diﬀerent grading show varied translation competence between English and Chinese, thus may hold diﬀerent opinions on the quality and perceived usefulness of machine translation
+
+3.4. Research Design. A questionnaire has been prepared with 6 statements on perceived usefulness (3 items), perceived ease of use (3 items), and 4 open-ended questions to gain both quantitative and qualitative data on students’
+intention to use postediting of machine translation. Participants were required to complete the questionnaire distributed online by ticking in the boxes with a 6-point Likert scale ranging from 1 (strongly disagree), 2 (disagree), 3 (slightly disagree), 4 (partially agree), 5 (agree), and 6 (strongly agree)
+and typing in answers to Q7-Q10 with explanations. Q1. Using postediting of machine translation would enable me to accomplish both general and domain-speciﬁc tasks more quickly. Q2. Using postediting of machine translation would improve the quality of my translation when translating into and out of Chinese language. Q3. Using postediting of machine translation would enhance my eﬀectiveness on translation and help me to stay competitive, so postediting should be taught as extensions of translation competence. Q4. Mastering the evaluation standard and the two levels of postediting of machine translation would be clear and understandable. Q5. As a novice translator, performing postediting of machine translation on a regular basis in future work situations would be easy for me. Q6. It would be easy for me to become skillful at using postediting of machine translation in computer-assisted translation environment. Q7. What is your comment on the statement “Postediting of machine translation is good enough to be delivered to client”? Q8. What do you enjoy most about using postediting of machine translation and what are the obstacles of using it to the best of your knowledge? Q9. Do you plan to continue or increase the use of postediting when doing bidirectional English-Chinese translation practices of economic, cultural, educational, tourist, and technical texts? Please explain.
+
+5 Human Behavior and Emerging Technologies
+
+Table 1: Correlations between Q6 and computer-assisted translation course grading.
+
+Q6 Computer-assisted translation course grading
+
+Pearson correlation 1 0.746∗∗
+
+Sig. (2-tailed)
+0.000 N 127 127
+
+Q6
+
+Pearson correlation 0.746∗∗
+1
+
+Computer-assisted translation course grading
+
+Sig. (2-tailed)
+0.000 N 127 127
+
+Table 2: Correlations between Q2 and translation practice course grading.
+
+Q2 Translation practice course grading
+
+Pearson correlation 1
+-0.419∗∗
+
+Sig. (2-tailed)
+0.000 N 127 127
+
+Q2
+
+Pearson correlation
+-0.419∗∗
+1
+
+Translation practice course grading
+
+Sig. (2-tailed)
+0.000 N 127 127
+
+Table 3: Descriptive statistics of questionnaire items Q1-Q6.
+
+Mean 4.55 4.02 4.43 4.37 4.05 4.48 Std. deviation 0.687 0.729 0.792 0.941 0.991 0.958 Variance 0.472 0.531 0.627 0.886 0.982 0.918 Skewness
+-0.187 0.036
+-0.237
+-0.168 0.053
+-0.383 Kurtosis
+-0.133
+-0.390
+-0.007
+-0.520
+-0.680
+-0.009 responses to Q1-Q6. However, Q4-Q6 on perceived ease of use had larger Std. deviation values than the values of Q1-
+Q3 on perceived usefulness, so Q4-Q6 have larger range and spread of scores. This means that students had much diﬀerent reactions to the ease of use of postediting. Because Q1-Q3 had lower Std. deviation values, so students had more consistent reactions toward the usefulness of postediting. The highest rating is 4.55 with Q1 “Using postediting of machine translation would enable me to accomplish both general and domain-speciﬁc tasks more quickly.” And the lowest rating is 4.02 with Q2 “Using postediting of machine translation would improve the quality of my translation when translating into and out of Chinese language.” The rating of Q1 shows that students are aware of the machine translation output eﬃciency and usefulness. The rating of Q2 indicates that students doubt the quality of machine translation output compared with their translations. The rating of Q6 is 4.48, which indicates that students are positive about the mastery of postediting within the context of computer-assisted translation environment. The ratings of Q3, Q4, and Q5 are 4.43, 4.37, and 4.05, indicating students’
+positive responses toward the eﬀectiveness of postediting and possible diﬃculties in mastering it. After a comparative descriptive statistics analysis of Q1-
+Q6 between the responses by the third-year and fourth-year students, the results of Q3 and Q6 in Table 4 show major
+
+Q10. Are you aware that postediting of machine translation has become a standard practice in the translation industry?
+
+4. Data Analysis and Results
+
+4.1. Quantitative Data Analysis. In order to investigate RQ2 the correlation of students’ responses with course grading, Person Correlation was run between Q6 and computerassisted translation course grading, and Q2 and translation practice course grading. The results are shown in the following table, respectively. Table 1 depicts that there is a moderate positive correlation between Q6 and computer-assisted translation course grading (r = 0:746), which means students with better translation technology competence inclined to use postediting of machine translation.
+∗∗Correlation is signiﬁcant at the 0.01 level (2-tailed). Table 2 demonstrates that the relationship between Q2 and translation practice course grading is high negative correlation (r = −0:419), which means students of higher linguistics competence doubted the eﬀectiveness of postediting of machine translation in improving the overall quality of their translation. The results of descriptive statistics of questionnaire items Q1-Q6 are shown in Table 3. All means are above the midpoint ranging from 4.02 to 4.55, indicating overall positive
+
+6 Human Behavior and Emerging Technologies
+
+Table 4: Comparative descriptive statistics of Q3 and Q6.
+
+N Mean Std. deviation Variance Skewness Kurtosis
+
+Q3 by third-year students 39 4.13 0.951 0.904
+-0.074
+-0.659 Q3 by fourth-year students 88 4.56 0.676 0.457 0.132
+-0.214 Q6 by third-year students 39 3.90 0.968 0.937
+-0.337
+-0.117 Q6 by fourth-year students 88 4.74 0.837 0.701
+-0.193
+-0.511
+
+Table 5: Reliability statistics of Q1-Q3 and Q4-Q6.
+
+Cronbach’s alpha Cronbach’s alpha based on standardized items No. of items
+
+Q1-Q3 (perceived usefulness)
+0.714 0.717 3 Q4-Q6 (perceived ease of use)
+0.835 0.835 3
+
+Efficiency, 63
+
+Good quality, 27
+
+Practical assistance, 42
+
+Easy to use, 35
+
+Figure 2: Respondents to the four positive themes.
+
+diﬀerence compared with that of the rest four questions. The ratings of Q3 “Using postediting of machine translation would enhance my eﬀectiveness on translation and help me to stay competitive, so postediting should be taught as extensions of translation competence.” by the third-year and fourth-year students are 4.13 and 4.56, respectively, which indicates that more seniors acknowledge the eﬀectiveness of postediting and the need for pedagogical incorporation, which would improve their performance and help them stay competitive. The ratings of Q6 “It would be easy for me to become skillful at using postediting of machine translation in computer-assisted translation environment.”
+by the third-year and fourth-year students are 3.90 and 4.74 respectively, which indicates that the eﬀort needed by seniors is less compared with that of juniors. The coeﬃcient of reliability of each construct was assessed using Cronbach’s alpha. It is generally acknowledged that a Cronbach’s alpha value of 0.70 is considered acceptable, and 0.80 is quite good. As shown in Table 5, the reliability of Q1-Q3 is 0.714, and Q4-Q6 is 0.835, showing sound internal consistencies.
+
+4.2. Qualitative Data Analysis. The qualitative data in this paper refers to open-ended questions of Q7-Q10 that the author asked in the questionnaire where the students could type in answers as they wished. The data were collected online, and responses were cleaned to identify themes and frequency of positive and negative words. There were 18 participants who just typed in something with limited relevance to the questions, so they were ﬁltered out. After analysis of responses to Q7-Q8 regarding the quality of postediting and what the students enjoyed most about using it, four positive themes and four negative themes are identiﬁed. The ﬁndings presented in Figure 2 show that the themes of positive responses include eﬃciency, practical assistance, easy to use, and good quality. Examples of concepts for eﬃ-
+ciency include eﬃcient, fast, eﬀective, time-saving, and instant, and sample responses include “it is eﬃcient and fast at getting translation tasks done; revising machine translation is time-saving compared with translating from scratch; machine translation can reduce workload to beat a deadline.” For practical assistance, concepts include helpful in
+
+7 Human Behavior and Emerging Technologies
+
+Figure 3: Respondents to the four negative themes.
+
+real situations, oﬀering vocabulary collocations and collecting information. Students’ responses include “it allows me to get diﬀerent versions as reference, especially helpful when I translate from Chinese to English; the machine translated text can be adjusted on the ﬂy; postediting reduces my pressure when translating diﬃcult technical texts. Example responses for easy to use include “in computer-assisted translation environment, it works like translation memory; no need to learn extra technical skills using machine translation; just paste the source text into the machine translation interface; it is easy to get several versions by using multiple online machine translation applications.” For good quality, sample responses include “for technical text, machine translation is accurate in general and little postediting is needed; some machine translation engines can oﬀer output of good quality if the sentence is not highly complex, making postediting easy; it enables me to focus on revising some minor grammatical errors; I intended to use the output as reference, while from time to time the quality is quite good.”
+The ﬁndings presented in Figure 3 show that the themes of negative responses include confusing postediting standard, inconsistent quality, ways to choose machine translation providers, and technical issues. For confusing postediting standard, students’ responses include “light postediting is diﬃcult in practice because I am not sure when to put what errors aside; what if full postediting consumes more time than translating from scratch; how to choose levels of postediting in light of translation brief.” In terms of inconsistent quality, sample responses include “for a particular keyword in the source text, machine translation would translate it diﬀerently in diﬀerent sentences; if you translate a long sentence by using machine translation, there might be sentence structure problems in target text; the machine-translated texts show signs of word-for-word translation and weird word order; the quality depends heavily on the domain of the text and the language direction; the quality of machine translation of cultural texts or literary lines in tourist texts is poor and not ﬁt for postediting.” For ways to choose machine translation providers, sample responses include “diﬀerent machine translation providers oﬀered diﬀerent output and it is diﬃcult to choose from; having no idea about the diﬀerences between foreign and domestic online machine translation providers; diﬀerent machine translation providers seem vary in handling diﬀerent language directions.” With regard to technical issues, sample responses include “sometimes there is internet connectivity problem; I’m not good at computer technology; application programming interfaces for CAT tool are not free of charge; always encounter technical problem in the process of postediting.”
+Detailed data have also been oﬀered by the respondents to Q9 about students’ intention to continue or increase the use of postediting. With regard to the question, two themes of"Continue"and"Increase"can be identiﬁed immediately. The data have been sorted, and another theme “Depends”
+has been identiﬁed. After data cleaning, the total number of responses to Q9 is 105. The percentage and frequency values are shown in Figure 4. The percentage for the theme
+“Continue” is 53.3%, and students’ responses include “I plan to continue the use of postediting because it is helpful; I will continue whenever I can; continue if the person in charge permits.” The percentage for “Increase” is 36.2%, and they answer “Will do more; I enjoy postediting for it is helpful and do good to my translation process; I would love to use more in the future.” 10.5% goes to “Depends” with sample responses include “depending on schedule; I am not sure about it; it depends because I have to make sure whether postediting helps for speciﬁc tasks; depends on domain of the text.” Overall, students who plan to continue and increase the use of postediting are in the absolute majority. They also mentioned that postediting is more suitable for economic, educational, and technical texts, because cultural
+
+8 Human Behavior and Emerging Technologies
+
+50
+
+36.2 %
+
+40
+
+30
+
+20
+
+10.5 %
+
+10
+
+56 38 11
+
+0
+
+Continue Increase Depends Percentage 53.3 %
+36.2 %
+10.5 %
+Frequency 56 38 11
+
+Figure 4: Students’ intention to continue or increase the use of postediting.
+
+Table 6: Students’ awareness of postediting as a standard practice.
+
+Unaware Passive awareness Fully aware
+
+Third-year students (39)
+19 (48.7%)
+17 (43.6%)
+3 (7.7%)
+Fourth-year students (88)
+29 (33%)
+34 (38.6%)
+25 (28.4%)
+Frequency 48 51 28 Percentage 37.8%
+40.2%
+22.0% some paid translation assignments and postediting is allowed especially for urgent tasks.” and tourist texts usually contain literary expressions which involve more creation in translation. As for language directions, they consider postediting more helpful when they translate from Chinese to English, and some online machine translation providers in China oﬀer better output quality compared with foreign-based online machine translation providers. Q10 is about respondents’ awareness of postediting as a standard practice in the translation industry, and students’
+responses can be categorized into unaware, passive awareness, and fully aware with 127 relevant responses. According to Table 6, there were 48 respondents who were unaware of postediting as a standard practice in the translation industry, accounting for 37.8%. Comparatively speaking, the percentage of fourth-year students who were unaware of it is 33%, which is less than that of third-year students of 48.7%. More fourth-year students (28.4%) are fully aware of the practice, while there were only 7.7% of the third-year students who consider they are fully aware of it. The following sample responses can explain the diﬀerence. The third-year students mentioned that “I have heard of postediting as a common practice in translation agencies, but when doing translation assignments, teachers usually remind us that we have to translate all by ourselves; I am not well aware of it because no exams on campus allows postediting.” The sample responses of fourth-year students include “Yes, I am aware of it after an internship at a local translation agency doing subtitling; I know it ﬁrst during class and once a client asked me to machine translate a document and then revise it; I did
+
+5. Discussion and Implications
+
+Although students of higher linguistics competence doubted the eﬀectiveness of postediting of machine translation, the descriptive statistics of questionnaire items Q1-Q6 indicate that students were holding positive responses to postediting of machine translation. They considered in general that using postediting of machine translation would enable them to accomplish tasks more quickly and improve the quality and enhance eﬀectiveness. Those who passed SDL Trados certiﬁcation exams with higher marks tend to use postediting, indicating the fact that students who have better technology competence or skills are more likely to be able to adapt easily to the use of postediting. The above results corroborate the positive themes found in qualitative data including eﬃciency, practical assistance, easy to use, and good quality. However, themes of negative responses are also found including confusing postediting standard, inconsistent quality, ways to choose machine translation providers, and technical issues. The above quantitative and qualitative analysis will be taken into consideration when exploring the pedagogical focus of postediting for students of undergraduate translation program. Based on the responses to Q10, it is reasonable to infer that machine translation is still considered by some teachers as not a helpful technology and may be detrimental to
+
+9 Human Behavior and Emerging Technologies
+
+Machine translation and postediting
+
+Translation brief
+
+Source files
+
+Understandable level
+
+No
+
+Worth PE Small-scale evaluation of raw MT output
+
+Yes
+
+Publishable level
+
+Yes
+
+Target files
+
+Light PE in CAT tools Accuracy, mistranslation, terminology...
+
+Closure
+&delivery
+
+Quality assurance
+
+Pre-editing and MT
+
+Grammar mistakes, spelling, punctuation, consistency, style...
+
+Full PE in CAT tools
+
+Figure 5: Suggested postediting workﬂow.
+
+students’ language competence acquisition. So, the attitude and role of the teachers should be further oriented toward technology use. Siddiquei and Kathpal point out that the teachers were aware of using technology for enhanced learning in general, but not everyone is ready for such revolutionary change. It is acknowledged that a teacher needs to be involved in mediating or contributing to students’ collaboration, the amount of control, instructor presence, or frequency of input still needs to be established . The practice of postediting within the context of computer-aided translation tool has accepted by students in general and will be taken as a good basis for further pedagogical activities. Integrating postediting into CAT course will be a reasonable option, as also conﬁrmed by Witczak
+, who introduced a practical postediting component into a CAT tool course for MA translation trainees, during which the students practiced postediting in a CAT tool named Wordfast Anywhere. A study of translation speciﬁcations will help to decide whether it is allowed to use postediting in the real scenario and the levels of postediting. Beeby
+argues that translation brief, which is another aspect of this subcompetence, will always be central to any professional translation or professional translation training. In terms of translation training, Nord also argues that every translation task should be accompanied by a translation brief (because it is easier to reach a well-deﬁned goal than to infer what the teacher may have thought would be the target-text function). The following postediting work-
+ﬂow is a suggested model based on the data analysis and discussions. As indicated in Figure 5, the implementation of postediting in undergraduate translator training shall highlight the following aspects.
+
+An in-depth introduction to and study of translation brief or project speciﬁcations are necessary. In translation education, translation brief may be in the form of assignment speciﬁcations to help students to get well prepared for the real scenario. Translation brief is also helpful for translators to decide the levels of postediting, namely, full postediting or light postediting. Small-scale evaluation of raw MT output is helpful in deciding whether the raw output worth postediting. From a practical point of view, there is no need to introduce metrics for translation evaluation, because the small-scale evaluation here means manual evaluation performed by students, which is diﬀerent from the expensive and time-consuming full manual evaluation. The key point here, according to students’ reﬂections, is to do comparisons and rank diﬀerent machine translation output oﬀered by diﬀerent providers against the assignment speciﬁcations. If none of the machine translations meets the speciﬁcations, the workﬂow will direct the process to human translation, usually in computerassisted translation environment. Before machine translation, pre-editing of the source language content such as spell-checking, format checking, and breaking winding sentences into shorter ones will be helpful to get a better output quality. It is not diﬃcult for students to break some long sentences into short ones and paraphrase some ambiguous structures to make machine translation easier. Some proper names, addresses, and domain-speciﬁc terminology can be processed to avoid possible errors. In the process of postediting, issues of accuracy, mistranslation, and terminology shall be focused by both full postediting and light postediting. At light PE level, the purpose is to use as much of the raw machine output as possible,
+
+10 Human Behavior and Emerging Technologies so aspects of grammar mistakes, spelling, punctuation, and consistency are not required to be revised unless they are critical errors or meaning is aﬀected. In addition to the abovementioned aspects, full PE should also focus on higher levels such as style and register.
+
+Z. Yan, “A basic model of human behavior with technologies,”
+Human Behavior and Emerging Technologies, vol. 2, no. 4, pp. 410–415, 2020.
+S. Schneider, “Are there never too many choice options? The eﬀect of increasing the number of choice options on learning with digital media,” Human Behavior and Emerging Technologies, vol. 3, no. 5, pp. 759–775, 2021.
+A. Beeby, M. Fernández, O. Fox et al., “Results of the validation of the PACTE translation competence model: acceptability and decision making,” Across Languages and Cultures, vol. 10, no. 2, pp. 207–230, 2009.
+A. Neubert, Competence in Language, in Languages, and in Translation, John Benjamins Publishing Company, Amsterdam and Philadelphia, 2000.
+A. Pym, “Redeﬁning translation competence in an electronic age,” In defence of a minimalist approach. Meta., vol. 48, no. 4, pp. 481–497, 2003.
+A. G. Arenas and J. Moorkens, “Machine translation and postediting training as part of a master’s programme,” Journal of Specialised Translation, vol. 31, pp. 217–238, 2019.
+M. Stasimioti and V. Sosoni, “Chapter 5 Investigating Post-Editing: A Mixed-Methods Study with Experienced and Novice Translators in the English-Greek Language Pair,” pp. 79–104, 2021.
+H. Ren, J. Wang, J. Pang, L. Wu, and J. Shi, “Review on machine translation post-editing of science and technology texts in China,”
+Open Journal of Modern Linguistics, vol. 10, no. 1, pp. 1–10, 2020.
+W. Zhong, “Competence structure and course design of postediting-a frontier analysis based on foreign post-editing courses,” Technology Enhanced Foreign Language Education. No., vol. 6, pp. 86–91, 2020.
+T. Zhao, “On the status quo and problems of post-editing of machine translation,” Foreign Language Education, vol. 42, no. 4, pp. 100–104, 2021.
+D. Kenny, Machine Translation, Routledge Encyclopedia of Translation Studies, Routledge, London and New York, 2020.
+Q. Liu and X. Zhang, “Machine translation: general,” in Routledge Encyclopedia of Translation Technology, pp. 105–109, Routledge, London and New York, 2014.
+D. Anastasiou and R. Gupta, “Comparison of crowdsourcing translation with machine translation,” Journal of Information Science, vol. 37, no. 6, pp. 637–659, 2011.
+A. Lommel, “Where’s My Translation Jet Pack?,” in Proceedings of Translating and the Computer 40, 2018.
+Z. Yang, “Comparative study of crowdsourcing translation, machine translation and computer-aided translation in the information age,” vol. 490, pp. 347–352, 2020.
+J. Allen, “Post-Editing,” in Computers and Translation: A Translator’s Guide, John Benjamins Publishing Company, Amsterdam and Philadelphia, 2003.
+J. Moorkens and S. O’Brien, “Assessing User Interface Needs of Post-Editors of Machine Translation,” in Human issues in translation technology, Routledge, London and New York, 2017.
+F. Carmo and J. Moorkens, “Diﬀerentiating editing, postediting and revision,” in Post-Editing and Revision, Language Science Press, 2020.
+S. Göpferich, “Competence, Translation,” in Routledge Encyclopedia of Translation Studies, Routledge, London and New York, 2020.
+
+6. Conclusion
+
+In this paper, the quantitative results indicate that students who have a better bilingual competence tend to doubt about the output quality of machine translation, and those who are proﬁcient in translation technology are inclined to use postediting and conﬁdent in mastering it. Both positive and negative themes found in the study are beneﬁcial to instructors before integrating postediting into training sections. The results from the quantitative analysis corroborate with the
+ﬁndings of qualitative analysis, indicating that the perceived ease of use and perceived usefulness are found to be signiﬁ-
+cant determinants of their attitudes towards the use of postediting of machine translation. Students’ responses to postediting of machine translation are generally favorable. This study has provided some insights into postediting of machine translation for undergraduate translation program in China. A practical solution at present is to integrate postediting into the program curriculum within the context of computer-assisted translation tools, because students hold positive attitude toward it and it is much easier to explore new technology based on existing experience. Negative factors such as confusing postediting standard and quality issues can be addressed through a careful study of postediting levels and translation brief. Teachers’ attitude toward translation technology will aﬀect undergraduate students’
+intention of implementing postediting, so it is reasonable for teachers of translation program to infuse technology throughout the curricula. Correlations of courses across the curricula related to technology competence and bilingual competence also merit study to explore possible factors behind their diﬀerent responses to postediting. Although the application of postediting of machine translation to undergraduate translation training confronts some perceived challenges, this study has expanded the existing understanding of it and will contribute to the teaching of translation technology. By highlighting postediting as a subcompetence and promoting a further integration of translation technologies to pedagogical setting, translation program will better reﬂect the current translation practice and make full use of unprecedented advantages provided by the ongoing technology development.
+
+The data used to support the ﬁndings of this study are available from the corresponding author upon request.
+
+The authors declare that they have no conﬂicts of interest.
+
+11 Human Behavior and Emerging Technologies
+
+M. Lesznyák, “Conceptualizing translation competence,” Across Languages and Cultures, vol. 8, no. 2, pp. 167–194, 2007.
+PACTE, “Acquiring Translation Competence: Hypotheses and Methodological Problems of a Research Project,” in Investigating Translation, A. Beeby, D. Ensinger, and M. Presas, Eds., pp. 99–116, John Benjamins Publishing Company, Amsterdam and Philadelphia, 2000.
+A. Pym, “Translation skill-sets in a machine-translation age,”
+Meta, vol. 58, no. 3, pp. 487–503, 2013.
+D. Kenny and S. Doherty, “Statistical machine translation in the translation curriculum: overcoming obstacles and empowering translators,” Interpreter and Translator Trainer, vol. 8, no. 2, pp. 276–294, 2014.
+ISO 18587, “Translation services-post-editing of machine translation output-requirements,”
+International Standard ISO18587, First edition.
+European Master’s in Translation-Competence Framework 2017February 2022, https://ec.europa.eu/info/sites/info/ﬁles/
+emt_competence_fwk_2017_en_web.pdf.
+M. Koponen, “How to teach machine translation post-editing? Experiences from a post-editing course,” 4th Workshop on Post-Editing Technology and Practice (WPTP4), 2015, http://
+amtaweb.org/wpcontent/uploads/2015/10/MTSummitXV_
+WPTP4Proceedings.pdf#page=6.
+S. Öner Bulut, “Integrating machine translation into translator training: towards ‘human translator competence’?,” TransLogos Translation Studies Journal, vol. 2, pp. 1–26, 2019.
+K. Konttinen, L. Salmi, and M. Koponen, “Revision and postediting competences in translator education,” in Translation revision and post-editing: Industry practices and cognitive processes, Routledge, London and New York, 2020.
+L. Oghenetega and U. Cln, “Conceptual and adoption of technology acceptance model in digital information resources usage by undergraduates: implication to higher institutions education in delta and edo of Nigeria,” Journal of Education and Practice, vol. 6, no. 21, pp. 82–93, 2015.
+V. Venkatesh and F. D. Davis, “A model of the antecedents of perceived ease of use: development and test,” Decision Sciences, vol. 27, no. 3, pp. 451–481, 1996.
+M. I. Siddiquei and S. Kathpal, “Challenges of online teaching during COVID-19: an exploratory factor analysis,” Human Behavior and Emerging Technologies, vol. 3, no. 5, pp. 811–
+822, 2021.
+N. E. Barrett, W. C. Hsu, G. Z. Liu, H. C. Wang, and C. Yin,
+“Computer-supported collaboration and written communication: tools, methods, and approaches for second language learners in higher education,” Human Behavior and Emerging Technologies, vol. 3, no. 2, pp. 261–270, 2021.
+O. Witczak, “Incorporating post-editing into a computerassisted translation course. A study of student attitudes,” Journal of Translator Education and Translation Studies, vol. 1, no. 1, pp. 35–55, 2016, http://www.testsjournal.org.
+A. Beeby, “Language learning for translators: Designing a syllabus,” in Translation in Undergraduate Degree Programmes, John Benjamins Publishing Company, Amsterdam and Philadelphia, 2004.
+C. Nord, Training functional translators. Training for the new millennium: Pedagogies for translation and interpreting, John Benjamins Publishing Company, Amsterdam and Philadelphia, 2005.
