@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "title": "问卷调查法在翻译研究中的应用",
+    "subtitle": "正反案例：口译笔记熟练度与MTPE接受度",
+    "subtitle_en": "Questionnaire Survey in Translation Studies",
+    "speaker": "汇报人：陈冠臻    学号：20261210050",
+    "date": "2026 年 10 月 12 日"
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "title": "问卷调查法在翻译研究中的应用",
+      "lines": [
+        "汇报人：陈冠臻    学号：20261210050",
+        "2026 年 10 月 12 日"
+      ],
+      "subtitle": "正反案例：口译笔记熟练度与MTPE接受度",
+      "subtitle_en": "Questionnaire Survey in Translation Studies",
+      "page": 1
+    },
+    {
+      "type": "toc",
+      "title": "目录",
+      "items": [
+        "研究背景与判断标准",
+        "正例：口译笔记熟练度量表的开发",
+        "反例：机器翻译译后编辑（MTPE）态度问卷",
+        "对照、改进与启示"
+      ],
+      "page": 2
+    },
+    {
+      "type": "section",
+      "number": "01",
+      "title": "研究背景与判断标准",
+      "page": 3
+    },
+    {
+      "type": "slide",
+      "title": "为什么选这两个案例？",
+      "bullets": [
+        "两篇论文都拿翻译专业学生做调查，都用问卷收集数据。",
+        "正例：周金华、董燕萍（2019），目标是开发一份量表。",
+        "反例：Yang & Mustafa（2022），想了解学生对机器翻译译后编辑的态度。",
+        "把它们放在一起，看问题、题目、样本、分析、结论这几步对不对得上。"
+      ],
+      "page": 4
+    },
+    {
+      "type": "slide",
+      "title": "判断一份问卷好不好，看四步",
+      "bullets": [
+        "研究问题：先想清楚要做什么。",
+        "概念与题目：抽象概念要变成能回答的题。",
+        "抽样与施测：发给谁、怎么抽、收回多少，要交代。",
+        "分析与结论：数据撑不撑得起结论。",
+        "信度是测得稳不稳，效度是测得准不准。"
+      ],
+      "page": 5
+    },
+    {
+      "type": "section",
+      "number": "02",
+      "title": "正例：口译笔记熟练度量表的开发",
+      "page": 6
+    },
+    {
+      "type": "slide",
+      "title": "正例要做什么",
+      "bullets": [
+        "周金华、董燕萍（2019），发在《外语教学与研究》。",
+        "目标：做一份量表，测交传学习者的笔记熟练度。",
+        "笔记熟练度看不见、摸不着，只能让学生自评。",
+        "作者把它分成四个维度：听记协调、时效性、系统性、使用。"
+      ],
+      "caption": "论文首页",
+      "image": "zheng_p01_title.png",
+      "page": 7
+    },
+    {
+      "type": "slide",
+      "title": "第一步：把概念定清楚",
+      "bullets": [
+        "笔记熟练度是个抽象概念，作者先把它拆开。",
+        "依据：72 份学习日志、4 名学生译员、6 名口译教师的访谈。",
+        "先定清楚要测什么，后面写题才有方向。"
+      ],
+      "caption": "构念来源：日志 + 访谈（p4）",
+      "image": "zheng_p04_construct.png",
+      "page": 8
+    },
+    {
+      "type": "slide",
+      "title": "第二步：写题、试测、正式测",
+      "bullets": [
+        "写题：先写出 74 题，经过 3 轮讨论，删到 28 题。",
+        "试测：54 名学生试答，删掉 7 题，留下 21 题。",
+        "正式测：144 名学生完成 21 题，再检验信度和效度。"
+      ],
+      "caption": "题项编写 74 题（p5）",
+      "caption2": "试测 54 人、删 7 留 21（p5）",
+      "image": "zheng_p05_itemwrite.png",
+      "image2": "zheng_p05_pilot.png",
+      "page": 9
+    },
+    {
+      "type": "slide",
+      "title": "信度：测得稳",
+      "bullets": [
+        "总量表 α=.901，四个维度也都在 .772 以上。",
+        "α 表示题目之间一不一致，越接近 1 越稳。",
+        ".901 说明这 21 题高度一致，反复测结果差不多。"
+      ],
+      "caption": "信度 α=.901（论文 p8）",
+      "image": "zheng_p08_reliability.png",
+      "page": 10
+    },
+    {
+      "type": "slide",
+      "title": "效度：测得准",
+      "bullets": [
+        "内容效度：8 名专家评，CVI 全是 1.00，题目内容没问题。",
+        "结构效度：因素分析分出 4 个维度，正好对上预设，解释 60.49%。"
+      ],
+      "caption": "内容效度 CVI=1（p8）",
+      "caption2": "因素分析 60.49%（p9）",
+      "image": "zheng_p08_cvi.png",
+      "image2": "zheng_p09_efa.png",
+      "page": 11
+    },
+    {
+      "type": "slide",
+      "title": "效标 + 局限",
+      "bullets": [
+        "效标效度：分数和练习量、动机、口译成绩都显著相关。",
+        "局限：自评不等于真实技能，因素分析只在一个样本做。",
+        "相关也不能证明练习导致提高。"
+      ],
+      "caption": "效标系数 .473 / .539 / .556（p10）",
+      "image": "zheng_p10_criterion.png",
+      "page": 12
+    },
+    {
+      "type": "section",
+      "number": "03",
+      "title": "反例：机器翻译译后编辑（MTPE）态度问卷",
+      "page": 13
+    },
+    {
+      "type": "slide",
+      "title": "反例要做什么",
+      "bullets": [
+        "Yang & Mustafa（2022）。",
+        "问：学生对机器翻译译后编辑的态度。",
+        "问卷：6 道打分题加 4 道开放题，127 名学生。",
+        "结果：学生总体觉得有用。"
+      ],
+      "caption": "论文首页",
+      "image": "fan_p01_title.png",
+      "page": 14
+    },
+    {
+      "type": "slide",
+      "title": "反例的问题（一）：框架和题目",
+      "bullets": [
+        "借了 TAM 框架，说要测有用性和易用性。",
+        "但 6 道题是自己编的，没沿用现成量表，也没评审、没试测。"
+      ],
+      "caption": "TAM 框架（p3）",
+      "caption2": "问卷 6 题（p4）",
+      "image": "fan_p03_tam.png",
+      "image2": "fan_p04_design.png",
+      "page": 15
+    },
+    {
+      "type": "slide",
+      "title": "反例的问题（二）：样本和信效度",
+      "bullets": [
+        "抽样：只说了 127 名学生，没写怎么抽、收回多少。",
+        "信度报了（α=.714 / .835），但没报效度。"
+      ],
+      "caption": "被试 127 人（p4）",
+      "caption2": "信度 α=.714 / .835（p6）",
+      "image": "fan_p04_participants.png",
+      "image2": "fan_p06_alpha.png",
+      "page": 16
+    },
+    {
+      "type": "slide",
+      "title": "反例的问题（三）：拿单题当概念",
+      "bullets": [
+        "拿 Q6 一道题和成绩算相关，Q2 一道题和另一门成绩算相关。",
+        "应该把同维度的 3 题合成一个分数再算。",
+        "而且相关不等于因果。"
+      ],
+      "caption": "单题相关（论文 p5）",
+      "image": "fan_p05_corr.png",
+      "page": 17
+    },
+    {
+      "type": "slide",
+      "title": "反例怎么改",
+      "bullets": [
+        "题目用现成量表，或者先验证。",
+        "三道题合成一个分数，别拿单题。",
+        "结论收窄到这批学生。"
+      ],
+      "page": 18
+    },
+    {
+      "type": "section",
+      "number": "04",
+      "title": "两篇论文的对照与启示",
+      "page": 19
+    },
+    {
+      "type": "slide",
+      "title": "两篇对照",
+      "bullets": [
+        "目的：正例做工具，反例问态度。",
+        "题目：正例有来源，反例没交代。",
+        "分析：正例多类证据，反例只有均值相关。",
+        "结论：正例克制，反例越界。"
+      ],
+      "page": 20
+    },
+    {
+      "type": "slide",
+      "title": "最后的结论",
+      "bullets": [
+        "一条链：问题、概念、题目、评审试测、施测、信效度，再到下结论。",
+        "问卷要像工具一样做。",
+        "有打分、有相关，不等于验证。",
+        "结论别超过数据。"
+      ],
+      "page": 21
+    },
+    {
+      "type": "slide",
+      "title": "参考文献与依据",
+      "bullets": [
+        "周金华、董燕萍（2019）．口译笔记熟练度量表的开发．《外语教学与研究》，51(6)，925–937。",
+        "Yang, Z., & Mustafa, H. R. (2022). On postediting of machine translation and workflow for undergraduate translation program in China. Human Behavior and Emerging Technologies, 2022, 5793054.",
+        "Kuznik, A., Hurtado Albir, A., & Espinal Berenguer, A. (2010). The use of social surveys in Translation Studies. MonTI 2trans.",
+        "Harkness, J., Pennell, B. E., & Schoua-Glusberg, A. (2004). Survey questionnaire translation and assessment.",
+        "补充网络来源：Wiley原文 https://onlinelibrary.wiley.com/doi/10.1155/2022/5793054；MonTI综述 https://www.raco.cat/index.php/MonTI/article/download/301211/390682"
+      ],
+      "page": 22
+    }
+  ]
+}

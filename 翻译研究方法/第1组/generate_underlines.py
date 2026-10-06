@@ -54,19 +54,8 @@ for outname, pdf, idx, clip_t, mark_kws in JOBS:
     doc = fitz.open(pdf)
     page = doc[idx]
     clip = fitz.Rect(*clip_t)
-    shape = page.new_shape()
-    drawn = 0
-    for kw in mark_kws:
-        for r in merge_rects(page.search_for(kw)):
-            if not clip.intersects(r):
-                continue
-            y = r.y1 + 1.5
-            shape.draw_line(fitz.Point(r.x0 - 2, y), fitz.Point(r.x1 + 2, y))
-            drawn += 1
-    shape.finish(color=RED, width=4)
-    shape.commit()
     pix = page.get_pixmap(matrix=fitz.Matrix(3, 3), clip=clip, alpha=False)
     outp = os.path.join(ASD, outname)
     pix.save(outp)
-    print("%-28s 标注%d条  尺寸%dx%d" % (outname, drawn, pix.width, pix.height))
+    print("%-28s 尺寸%dx%d" % (outname, pix.width, pix.height))
 print("done")
