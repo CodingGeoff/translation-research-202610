@@ -1,7 +1,1 @@
 node_modules/
-
-# 音频产物：体积大，不入库（本地生成，见 翻译研究方法/final-draft/audio/）
-*.mp3
-*.wav
-*.m4a
-翻译研究方法/final-draft/audio/
